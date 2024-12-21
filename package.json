@@ -1,0 +1,22 @@
+{
+  "name": "ace-theme",
+  "displayName": "ace-theme",
+  "description": "the best theme ever",
+  "version": "0.0.1",
+  "publisher" :"ace-engineering-solutions",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ace Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ace Theme-color-theme.json"
+      }
+    ]
+  }
+}

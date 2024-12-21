@@ -1,0 +1,13 @@
+.DS_store
+*.xlsx
+demo_files
+
+.vscode
+.idea
+# *.afdesign
+*.afphoto
+*.afpub
+*.afdesign~lock~
+
+.vscodeignore
+ace-theme-jetbrains/ace-theme-jetbrains.iml
